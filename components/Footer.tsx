@@ -13,7 +13,7 @@ const Footer = () => {
           className="my-2 mx-auto"
         />
         <h1 className="mt-[50px] font-grad font-bold text-6xl text-cyan-50">
-          Thanks for visiting
+          Made with LUV
         </h1>
       </div>
       {/* <div className="">
