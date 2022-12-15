@@ -47,7 +47,7 @@ const Mid = () => {
       <div className="flex border-y-2 justify-center items-center px-[200px] py-[90px] bg-[#504A6B]">
         <div>
           <h2 className="my-[60px] text-[30px] font-semibold text-center text-white">
-            Your Name for Web 3
+            Web3 Domain Benefits
           </h2>
           <h2 className="mt-3 inline text-l text-[#8E88AB]">
             <Image
