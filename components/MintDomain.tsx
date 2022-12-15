@@ -94,7 +94,7 @@ const MintDomain = () => {
           />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <h1 className="font-grad font-semibold text-[30px] ">
-            MintSub Domain
+            Mint SubDomain
           </h1>
         </div>
         <br />
@@ -137,10 +137,6 @@ const MintDomain = () => {
           open={visible}
           onClose={closeHandler}
         >
-          {/* <Modal.Header>
-            {/* {visible ? <Loader /> : ''} */}
-          {/* <Loader /> */}
-          {/* </Modal.Header> */}
           <Modal.Body>
             {isLoading ? (
               <Loader />
@@ -159,7 +155,7 @@ const MintDomain = () => {
                     // padding: '$2 $4',
                   }}
                 >
-                  Your SubDomains is on the way
+                  Your SubDomains is Here
                 </Text>
                 <Button
                   flat
