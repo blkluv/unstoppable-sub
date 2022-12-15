@@ -13,12 +13,12 @@ const Main = () => {
         <p className=" text-2xl text-gray-400">
           Own your identity in the digital world.
         </p>
-        <Image
+        {/* <Image
           src={images.Home}
           alt="Logo"
           height={60}
           className="my-8 h-1000 w-1000"
-        />
+        /> */}
       </div>
 
       <div className=" items-center ">

@@ -140,7 +140,7 @@ const Navbar = () => (
               className="px-3 py-2 ml-[100px] text-white "
               href="/mintSubdomain"
             >
-              MintSubDomain
+              Mint SubDomain
             </Link>
             <Link className="px-3 py-2  text-white" href="/udGallery">
               UD Gallery
