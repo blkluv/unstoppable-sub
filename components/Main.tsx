@@ -7,11 +7,11 @@ const Main = () => {
     <div className="flex p-[80px] h-[800px]  px-[190px] bg-[#1B1631]">
       <div className="container mx-auto ">
         <h1 className="mt-[100px] font-grad font-bold text-6xl text-cyan-50">
-          Having SubDomains <br /> Made Easy
+          Web3 SubDomains <br /> Made Easy
         </h1>
         <br />
         <p className=" text-2xl text-gray-400">
-          Own your identity in the digital world.
+          Own your 🆔
         </p>
         {/* <Image
           src={images.Home}
