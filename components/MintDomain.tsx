@@ -27,7 +27,7 @@ const MintDomain = () => {
 
   // ethers js part connect to blockchain start here
 
-  const subDomainAddress = '0xAD9d8988E2d36a9fC693b4Ea0fd5c55759fDE4b1';
+  const subDomainAddress = '0x7be83293BeeDc9Eba1bd76c66A65F10F3efaeC26';
   const subDomainAddressABI = subDomainAbi;
 
   let subDomainContract: ethers.Contract;
