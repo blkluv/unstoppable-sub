@@ -110,7 +110,7 @@ const MintDomain = () => {
         <input
           type="text"
           className="text-white mb-[45px] pl-4 bg-[#211f33] border rounded w-[400px] h-[42px]"
-          placeholder="Enter your Sub Domain here"
+          placeholder="subdomain.domain.tld"
           required
           onChange={SubName}
         />
